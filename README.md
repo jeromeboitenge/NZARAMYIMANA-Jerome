@@ -134,7 +134,7 @@ I build **scalable, secure, and visually stunning digital solutions** while also
 
 # 🎯 **Featured Projects**
 
-### 3️⃣ Event Management System (Giraffe Space)
+### 3️⃣ Event Management System (Hitamospace)
 
 <p align="center">
   <a href="#"><img src="./images/hitamospace.png" width="280" alt="Event Management System screenshot" /></a>
