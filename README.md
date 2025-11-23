@@ -1,77 +1,35 @@
-<div align="center">
-  <div style="
-    background-color: #1a1a2e; /* Dark background matching the image */
-    border-radius: 15px;
-    padding: 30px;
-    width: 90%;
-    max-width: 900px;
-    margin: 20px auto;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5); /* Subtle shadow */
-    color: #ffffff; /* White text */
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    text-align: left;
-    gap: 30px; /* Space between image and text */
-  ">
-    <div style="flex-shrink: 0; margin: 0 auto;">
-      <img 
-        src="https://raw.githubusercontent.com/jeromeboitenge/jeromeboitenge/main/images/Nzaramyimana%20Jerome.jpeg" 
-        alt="Jerome NZARAMYIMANA Profile Photo" 
-        style="
-          width: 150px; 
-          height: 150px; 
-          border-radius: 50%; /* Circular image */
-          object-fit: cover;
-          border: 4px solid #0A66C2; /* Primary color border */
-        "
-      />
-      <p align="center" style="font-size: 0.8em; color: #a0a0a0; margin-top: 10px;">KIGALI • REMOTE</p>
-    </div>
-    
-    <div style="flex-grow: 1; min-width: 300px;">
-      
-      <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 15px;">
-        <span style="background-color: #3f3f51; color: #ffffff; padding: 5px 10px; border-radius: 5px; font-size: 0.8em; font-weight: bold;">FULL-STACK ENGINEER</span>
-        <span style="background-color: #3f3f51; color: #ffffff; padding: 5px 10px; border-radius: 5px; font-size: 0.8em; font-weight: bold;">DESIGN SYSTEMS</span>
-        <span style="background-color: #3f3f51; color: #ffffff; padding: 5px 10px; border-radius: 5px; font-size: 0.8em; font-weight: bold;">HARDWARE & MAINTENANCE</span>
-      </div>
-      
-      <h1 style="color: #ffffff; font-size: 2.5em; margin: 0 0 10px 0;">
-        👋 Hi, I'm <span style="color:#0A66C2;">NZARAMYIMANA Jerome</span>
-      </h1>
-      
-      <p style="color: #cccccc; line-height: 1.6; margin-bottom: 25px;">
-        I design and engineer premium digital experiences across React, Next.js, and Node.js — blending product thinking, design systems, and scalable infrastructure so launches feel effortless and polished.
-      </p>
-      
-      <p style="margin: 0; display: flex; gap: 15px;">
-        <a href="mailto:boitengejerome@gmail.com" target="_blank" style="
-          text-decoration: none;
-          background-color: #0A66C2; /* Blue primary color */
-          color: white;
-          padding: 10px 20px;
-          border-radius: 8px;
-          font-weight: bold;
-          transition: background-color 0.3s;
-          white-space: nowrap;
-        ">Hire Me</a>
-        
-        <a href="https://your-cv-link.pdf" target="_blank" style="
-          text-decoration: none;
-          background-color: transparent;
-          color: #0A66C2; 
-          border: 2px solid #0A66C2;
-          padding: 10px 20px;
-          border-radius: 8px;
-          font-weight: bold;
-          transition: background-color 0.3s;
-          white-space: nowrap;
-        ">Download CV</a>
-      </p>
-    </div>
-  </div>
-</div>
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/jeromeboitenge/jeromeboitenge/main/images/Nzaramyimana%20Jerome.jpeg" 
+    alt="Jerome NZARAMYIMANA Profile Photo" 
+    width="150"
+  />
+</p>
+
+<h1 align="center">
+  👋 Hi, I'm <span style="color:#0A66C2;">NZARAMYIMANA Jerome</span>
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FULL--STACK%20ENGINEER-3F3F51?style=for-the-badge&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/DESIGN%20SYSTEMS-3F3F51?style=for-the-badge&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/HARDWARE%20&%20MAINTENANCE-3F3F51?style=for-the-badge&logoColor=ffffff" />
+</p>
+
+<p align="center">
+  I design and engineer premium digital experiences across React, Next.js, and Node.js — blending product thinking, design systems, and scalable infrastructure so launches feel effortless and polished.
+</p>
+
+<p align="center">
+  <a href="mailto:boitengejerome@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Hire%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hire Me button" />
+  </a>
+  &nbsp;
+  <a href="https://your-cv-link.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20CV-0A66C2?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download CV button" />
+  </a>
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=4000&pause=1000&color=0A66C2&width=600&lines=Senior+Software+Engineer;Frontend+%26+MERN+Developer;System+Analyst;Hardware+%26+Software+Maintainer" alt="Typing animation" />
 </h1>
@@ -138,10 +96,8 @@ I build **scalable, secure, and visually stunning digital solutions** while also
 
 # 📊 **Skill Levels (Animated Progress Bars)**
 
-# 📊 Skill Levels (With Icons)
-
 | Skill                                                                                  | Level                                                           |
-| -------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| :------------------------------------------------------------------------------------- | :-------------------------------------------------------------- |
 | ![JavaScript](https://skillicons.dev/icons?i=javascript) JavaScript                    | ![90](https://progress-bar.dev/90/?title=JS&color=0A66C2)       |
 | ![React](https://skillicons.dev/icons?i=react) React.js / React Native                 | ![95](https://progress-bar.dev/95/?title=React&color=61DBFB)    |
 | ![Next.js](https://skillicons.dev/icons?i=nextjs) Next.js                              | ![90](https://progress-bar.dev/90/?title=NextJS&color=000000)   |
@@ -152,19 +108,21 @@ I build **scalable, secure, and visually stunning digital solutions** while also
 | ![Figma](https://skillicons.dev/icons?i=figma) UI/UX & Figma                           | ![85](https://progress-bar.dev/85/?title=Figma&color=F24E1E)    |
 | ![Hardware](https://skillicons.dev/icons?i=arduino) Hardware & System Maintenance      | ![80](https://progress-bar.dev/80/?title=Hardware&color=FF8C00) |
 
+---
+
 # 📊 **GitHub Analytics & Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeromeboitenge&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeromeboitenge&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeromeboitenge&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeromeboitenge&theme=radical" width="48%" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeromeboitenge&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeromeboitenge&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
 </p>
 
 ---
@@ -179,7 +137,7 @@ I build **scalable, secure, and visually stunning digital solutions** while also
 ### 1️⃣ Advanced Hotel Management System
 
 <p align="center">
-  <a href="#"><img src="https://i.imgur.com/j3Diw1D.png" width="280" /></a>
+  <a href="#"><img src="https://i.imgur.com/j3Diw1D.png" width="280" alt="Hotel Management System screenshot" /></a>
 </p>
 - Online room booking & payment  
 - Staff & product management  
@@ -191,7 +149,7 @@ I build **scalable, secure, and visually stunning digital solutions** while also
 ### 2️⃣ ExploreHub — Rwanda Tourism
 
 <p align="center">
-  <a href="#"><img src="https://i.imgur.com/9VrGjRE.png" width="280" /></a>
+  <a href="#"><img src="https://i.imgur.com/9VrGjRE.png" width="280" alt="ExploreHub screenshot" /></a>
 </p>
 - Discover & review destinations  
 - Google Maps integration  
@@ -202,7 +160,7 @@ I build **scalable, secure, and visually stunning digital solutions** while also
 ### 3️⃣ Event Management System (Giraffe Space)
 
 <p align="center">
-  <a href="#"><img src="https://i.imgur.com/k9DzrHQ.png" width="280" /></a>
+  <a href="#"><img src="https://i.imgur.com/k9DzrHQ.png" width="280" alt="Event Management System screenshot" /></a>
 </p>
 - QR-based registration & approvals  
 - Role-based access  
@@ -216,12 +174,12 @@ I build **scalable, secure, and visually stunning digital solutions** while also
 # 🌐 **Connect With Me**
 
 <p align="center">
-  <a href="mailto:boitengejerome@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" /></a>
-  <a href="https://linkedin.com/in/jerome-boitenge"><img src="https://skillicons.dev/icons?i=linkedin" width="48" /></a>
-  <a href="https://github.com/jeromeboitenge"><img src="https://skillicons.dev/icons?i=github" width="48" /></a>
-  <a href="https://jeromeboitenge.github.io/my-portifolio/"><img src="https://skillicons.dev/icons?i=webflow" width="48" /></a>
-  <a href="https://twitter.com/jeromeboitenge"><img src="https://skillicons.dev/icons?i=twitter" width="48" /></a>
-  <a href="https://stackoverflow.com/users/yourid"><img src="https://skillicons.dev/icons?i=stackoverflow" width="48" /></a>
+  <a href="mailto:boitengejerome@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/jerome-boitenge"><img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" /></a>
+  <a href="https://github.com/jeromeboitenge"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" /></a>
+  <a href="https://jeromeboitenge.github.io/my-portifolio/"><img src="https://skillicons.dev/icons?i=webflow" width="48" alt="Portfolio" /></a>
+  <a href="https://twitter.com/jeromeboitenge"><img src="https://skillicons.dev/icons?i=twitter" width="48" alt="Twitter" /></a>
+  <a href="https://stackoverflow.com/users/yourid"><img src="https://skillicons.dev/icons?i=stackoverflow" width="48" alt="Stack Overflow" /></a>
 </p>
 
 ---
