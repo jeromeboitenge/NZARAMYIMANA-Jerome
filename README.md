@@ -21,14 +21,14 @@ Senior Software Engineer | MERN & Next.js Developer | System Analyst | Hardware 
 <summary>Click to Expand About Me</summary>
 
 I'm **Jerome Boitenge**, a **full-stack developer, system analyst, and hardware/software maintainer**.  
-I build **scalable, secure, and impactful digital solutions** while also ensuring **hardware systems run smoothly**.
+I build **scalable, secure, and impactful digital solutions** while also providing **hardware support and system analysis**.
 
 - ⚡ MERN & Next.js expert
-- ⚡ Backend & system architecture skills
+- ⚡ Skilled in backend architecture & system design
 - ⚡ Hardware maintenance & troubleshooting
 - ⚡ Cloud deployment & DevOps automation
-- ⚡ UI/UX & responsive design
-- ⚡ Passionate about mentoring & African tech solutions
+- ⚡ UI/UX design & responsive interfaces
+- ⚡ Passionate about mentoring & building African tech solutions
 
 </details>
 
@@ -36,31 +36,28 @@ I build **scalable, secure, and impactful digital solutions** while also ensurin
 
 # 🛠 **Skills**
 
-<details>
-<summary>Click to Expand Skills</summary>
-
 ## 🔹 Programming & Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,nodejs,express,nextjs,react,nestjs,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,nodejs,express,nextjs,react,nestjs,c,cpp,java" />
 </p>
 
 ## 🔹 Frontend & UI/UX
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,materialui,figma,adobe" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,materialui,figma,adobe,sass,jquery" />
 </p>
 
 ## 🔹 Backend & Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,prisma" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,prisma,graphql" />
 </p>
 
 ## 🔹 Cloud, DevOps & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,vercel,netlify,github,linux,nginx" />
+  <img src="https://skillicons.dev/icons?i=docker,vercel,netlify,github,linux,nginx,aws,heroku" />
 </p>
 
 ## 🔹 Hardware & System Maintenance
@@ -69,14 +66,9 @@ I build **scalable, secure, and impactful digital solutions** while also ensurin
   <img src="https://skillicons.dev/icons?i=windows,linux,raspberrypi,arduino" />
 </p>
 
-</details>
-
 ---
 
-# 📊 **Skill Levels**
-
-<details>
-<summary>Click to Expand Skill Progress Bars</summary>
+# 📊 **Skill Levels (Animated Progress Bars)**
 
 | Skill                             | Level                                                           |
 | --------------------------------- | --------------------------------------------------------------- |
@@ -90,19 +82,24 @@ I build **scalable, secure, and impactful digital solutions** while also ensurin
 | **UI/UX & Figma**                 | ![85](https://progress-bar.dev/85/?title=Figma&color=F24E1E)    |
 | **Hardware & System Maintenance** | ![80](https://progress-bar.dev/80/?title=Hardware&color=FF8C00) |
 
-</details>
-
 ---
 
-# 📊 **GitHub Analytics**
+# 📊 **GitHub Analytics & Stats**
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jeromeboitenge&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jeromeboitenge&theme=radical" />
+  <!-- Total commits, repos, stars, PRs -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jeromeboitenge&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeromeboitenge&theme=radical" width="48%" />
 </p>
 
 <p align="center">
+  <!-- Top languages used -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeromeboitenge&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <!-- Contribution graph snake -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -147,7 +144,6 @@ I build **scalable, secure, and impactful digital solutions** while also ensurin
 - Financial & analytical dashboards
 
 </div>
-
 </details>
 
 ---
@@ -160,6 +156,7 @@ I build **scalable, secure, and impactful digital solutions** while also ensurin
   <a href="https://github.com/jeromeboitenge"><img src="https://skillicons.dev/icons?i=github" width="48" /></a>
   <a href="https://jeromeboitenge.github.io/my-portifolio/"><img src="https://skillicons.dev/icons?i=webflow" width="48" /></a>
   <a href="https://twitter.com/jeromeboitenge"><img src="https://skillicons.dev/icons?i=twitter" width="48" /></a>
+  <a href="https://stackoverflow.com/users/yourid"><img src="https://skillicons.dev/icons?i=stackoverflow" width="48" /></a>
 </p>
 
 ---
