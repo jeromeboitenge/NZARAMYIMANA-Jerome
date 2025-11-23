@@ -75,6 +75,59 @@ I build **scalable, secure, and visually stunning digital solutions** while also
 
 ---
 
+# 📈 **Skill Proficiency**
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th align="left">Skill</th>
+      <th align="center">Level</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left">![JavaScript](https://skillicons.dev/icons?i=javascript) **JavaScript**</td>
+      <td>![90](https://progress-bar.dev/90/?title=90%&color=0A66C2)</td>
+    </tr>
+    <tr>
+      <td align="left">![React](https://skillicons.dev/icons?i=react) **React.js / React Native**</td>
+      <td>![95](https://progress-bar.dev/95/?title=95%&color=61DBFB)</td>
+    </tr>
+    <tr>
+      <td align="left">![Next.js](https://skillicons.dev/icons?i=nextjs) **Next.js**</td>
+      <td>![90](https://progress-bar.dev/90/?title=90%&color=000000)</td>
+    </tr>
+    <tr>
+      <td align="left">![Node.js](https://skillicons.dev/icons?i=nodejs) **Node.js**</td>
+      <td>![85](https://progress-bar.dev/85/?title=85%&color=68A063)</td>
+    </tr>
+    <tr>
+      <td align="left">![MongoDB](https://skillicons.dev/icons?i=mongodb) **MongoDB**</td>
+      <td>![80](https://progress-bar.dev/80/?title=80%&color=4DB33D)</td>
+    </tr>
+    <tr>
+      <td align="left">![Tailwind](https://skillicons.dev/icons?i=tailwind) **Tailwind / Bootstrap / MUI**</td>
+      <td>![90](https://progress-bar.dev/90/?title=90%&color=38B2AC)</td>
+    </tr>
+    <tr>
+      <td align="left">![Docker](https://skillicons.dev/icons?i=docker) **Docker & Cloud**</td>
+      <td>![75](https://progress-bar.dev/75/?title=75%&color=2496ED)</td>
+    </tr>
+    <tr>
+      <td align="left">![Figma](https://skillicons.dev/icons?i=figma) **UI/UX & Figma**</td>
+      <td>![85](https://progress-bar.dev/85/?title=85%&color=F24E1E)</td>
+    </tr>
+    <tr>
+      <td align="left">![Hardware](https://skillicons.dev/icons?i=arduino) **Hardware & System Maintenance**</td>
+      <td>![80](https://progress-bar.dev/80/?title=80%&color=FF8C00)</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+---
+
 # 🎯 **Featured Projects** (Focus on Impact)
 
 <div align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:25px">
@@ -87,7 +140,7 @@ I build **scalable, secure, and visually stunning digital solutions** while also
   </a>
 
   <a href="#" target="_blank" style="text-decoration: none; color: inherit;">
-    <img src="https://i.imgur.com/9VrGjRE.png" width="300" alt="ExploreHub screenshot" style="border-radius: 10px; border: 1px solid #3f3f51;"/>
+    <img src="https://i.com/9VrGjRE.png" width="300" alt="ExploreHub screenshot" style="border-radius: 10px; border: 1px solid #3f3f51;"/>
     <h3>2️⃣ ExploreHub — Rwanda Tourism</h3>
     <p style="margin-top: -15px; color: #cccccc;">**Stack:** React.js, Google Maps API</p>
     <p style="color: #a0a0a0; max-width: 300px; text-align: center;">Community-driven portal featuring discovery, reviews, and media integration, designed for **high user engagement**.</p>
@@ -122,22 +175,6 @@ I build **scalable, secure, and visually stunning digital solutions** while also
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
 </p>
-
----
-
-# 📈 **Skill Proficiency**
-
-| Skill                                                                                 | Level                                                      |
-| :------------------------------------------------------------------------------------ | :--------------------------------------------------------- |
-| ![JavaScript](https://skillicons.dev/icons?i=javascript) **JavaScript**               | ![90](https://progress-bar.dev/90/?title=90%&color=0A66C2) |
-| ![React](https://skillicons.dev/icons?i=react) **React.js / React Native**            | ![95](https://progress-bar.dev/95/?title=95%&color=61DBFB) |
-| ![Next.js](https://skillicons.dev/icons?i=nextjs) **Next.js**                         | ![90](https://progress-bar.dev/90/?title=90%&color=000000) |
-| ![Node.js](https://skillicons.dev/icons?i=nodejs) **Node.js**                         | ![85](https://progress-bar.dev/85/?title=85%&color=68A063) |
-| ![MongoDB](https://skillicons.dev/icons?i=mongodb) **MongoDB**                        | ![80](https://progress-bar.dev/80/?title=80%&color=4DB33D) |
-| ![Tailwind](https://skillicons.dev/icons?i=tailwind) **Tailwind / Bootstrap / MUI**   | ![90](https://progress-bar.dev/90/?title=90%&color=38B2AC) |
-| ![Docker](https://skillicons.dev/icons?i=docker) **Docker & Cloud**                   | ![75](https://progress-bar.dev/75/?title=75%&color=2496ED) |
-| ![Figma](https://skillicons.dev/icons?i=figma) **UI/UX & Figma**                      | ![85](https://progress-bar.dev/85/?title=85%&color=F24E1E) |
-| ![Hardware](https://skillicons.dev/icons?i=arduino) **Hardware & System Maintenance** | ![80](https://progress-bar.dev/80/?title=80%&color=FF8C00) |
 
 ---
 
