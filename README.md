@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=4000&pause=1000&color=0A66C2&width=600&lines=Senior+Software+Engineer;Frontend+%26+MERN+Developer;System+Analyst;Hardware+%26+Software+Maintainer" alt="Typing animation" />
 </p>
 
-<p align="center">
+<p align="center ">
   <img src="https://komarev.com/ghpvc/?username=jeromeboitenge&label=Profile+Views&color=0A66C2&style=for-the-badge" />
 </p>
 
