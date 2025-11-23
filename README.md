@@ -1,10 +1,10 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://i.imgur.com/4ZP1e5j.gif" alt="Jerome Boitenge Banner" width="100%" />
+  <img src="./images/Nzaramyimana Jerome.jpeg" alt="Jerome BoitJeromenzaramyimana Banner" width="100%" />
 </p>
 
 <!-- PROFILE TITLE WITH MOVING DESCRIPTION -->
-<h1 align="center">👋 Hi, I'm <span style="color:#0A66C2;">Jerome Boitenge</span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#0A66C2;">Jerome NZARAMYIMANA</span></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=4000&pause=1000&color=0A66C2&width=600&lines=Senior+Software+Engineer;Frontend+%26+MERN+Developer;System+Analyst;Hardware+%26+Software+Maintainer" alt="Typing animation" />
