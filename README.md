@@ -1,118 +1,153 @@
-🚀 Jerome Boitenge — Software Engineer | MERN | Next.js | Cloud | UI/UX
+<!-- BANNER -->
+<p align="center">
+  <img src="https://i.imgur.com/4ZP1e5j.gif" alt="Jerome Boitenge Banner" width="100%" />
+</p>
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&color=0A66C2&center=true&vCenter=true&width=900&lines=Jerome+Boitenge;Software+Engineer+from+Rwanda;MERN+Stack+Developer;Next.js+%7C+Node.js+%7C+MongoDB;Passionate+about+Digital+Innovation+%26+Impact" /> </p>
-🧑‍💻 About Me
+<!-- PROFILE TITLE -->
+<h1 align="center">👋 Hi, I'm <span style="color:#0A66C2;">Jerome Boitenge</span></h1>
+<h3 align="center">Senior Software Engineer | MERN Stack | Next.js | System Analyst | Rwanda 🇷🇼</h3>
 
-Hi! I'm Jerome Boitenge, a passionate Software Engineer specializing in
-Full-Stack JavaScript Development, modern frontend frameworks, cloud-ready backend systems,
-and digital products that solve real problems in Rwanda and beyond.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jeromeboitenge&label=Profile+Views&color=0A66C2&style=for-the-badge" />
+</p>
 
-✔ I build production-ready applications
-✔ I design scalable APIs & high-quality UI
-✔ I collaborate using clean code, documentation, and architecture
-✔ I focus on solving real-world problems with technology
+---
 
-📊 GitHub Analytics
+# 💻 **About Me**
 
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeromeboitenge&theme=github_dark" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeromeboitenge&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jeromeboitenge&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeromeboitenge&layout=compact&theme=tokyonight" /> </p>
-🛠 Tech Stack & Tools
-Frontend
-<p> <img src="https://skillicons.dev/icons?i=react,next,tailwind,html,css,js,ts,materialui,bootstrap" /> </p>
-Backend & Databases
-<p> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,prisma" /> </p>
-DevOps & Deployment
-<p> <img src="https://skillicons.dev/icons?i=docker,github,git,vercel,netlify,nginx" /> </p>
-Design & Tools
-<p> <img src="https://skillicons.dev/icons?i=figma,photoshop,postman,linux" /> </p>
-🧩 Professional Expertise
-🚀 1. Full-Stack Web Development
+I'm **Jerome Boitenge**, a senior full-stack developer building **scalable, secure, and impactful software**.  
+I focus on creating **real-world digital solutions** in Africa and globally.
 
-I build complete systems using the MERN STACK + cloud deployment:
+- ⚡ Experienced in MERN Stack & Next.js
+- ⚡ Strong backend & system architecture skills
+- ⚡ Cloud deployment and DevOps automation
+- ⚡ UI/UX & responsive design expert
+- ⚡ Passionate about mentoring & solving African tech challenges
 
-Scalable APIs
+---
 
-Secure authentication (JWT, OAuth)
+# 🛠 **Skills**
 
-Role-based dashboards
+## 🔹 Languages & Frameworks
 
-Realtime systems (WebSockets)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,nodejs,express,nextjs,react,nestjs" />
+</p>
 
-🎨 2. UI/UX & Frontend Engineering
+## 🔹 Frontend
 
-I deliver pixel-perfect UIs using:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind,html,css,bootstrap,materialui,figma" />
+</p>
 
-Next.js 14 (App Router)
+## 🔹 Backend & Databases
 
-React + Tailwind CSS
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,prisma" />
+</p>
 
-Animation using Framer Motion
+## 🔹 Cloud & DevOps
 
-Responsive & accessible design
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,vercel,netlify,github,linux,nginx" />
+</p>
 
-🛡 3. Backend & System Architecture
+---
 
-I design:
+# 📊 **Skill Progress Bars (Animated)**
 
-Modular, optimized backend
+| Skill            | Level                                                           |
+| ---------------- | --------------------------------------------------------------- |
+| **JavaScript**   | ![90](https://progress-bar.dev/90/?title=JS&color=0A66C2)       |
+| **React**        | ![95](https://progress-bar.dev/95/?title=React&color=61DBFB)    |
+| **Next.js**      | ![90](https://progress-bar.dev/90/?title=NextJS&color=000000)   |
+| **Node.js**      | ![85](https://progress-bar.dev/85/?title=NodeJS&color=68A063)   |
+| **MongoDB**      | ![80](https://progress-bar.dev/80/?title=MongoDB&color=4DB33D)  |
+| **Tailwind CSS** | ![90](https://progress-bar.dev/90/?title=Tailwind&color=38B2AC) |
+| **Docker**       | ![70](https://progress-bar.dev/70/?title=Docker&color=2496ED)   |
+| **UI/UX Design** | ![85](https://progress-bar.dev/85/?title=Figma&color=F24E1E)    |
 
-Clean folder structure
+---
 
-Database modeling
+# 📊 **GitHub Analytics**
 
-Caching (Redis)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jeromeboitenge&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jeromeboitenge&theme=radical" />
+</p>
 
-API documentation
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeromeboitenge&layout=compact&theme=radical" />
+</p>
 
-☁ 4. DevOps & Deployment
+---
 
-GitHub Actions CI/CD
+# 🐍 **Contribution Graph Snake**
 
-Docker containerization
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
-Vercel, Netlify, Railway, AWS
+---
 
-⭐ Highlighted Projects
-1️⃣ Event Management System (Giraffe Space)
+# 🎯 **Featured Projects**
 
-A robust university event handling platform with:
+<div align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:20px">
 
-Event lifecycle management
+### 1️⃣ Advanced Hotel Management System
 
-Smart scheduling
+<p align="center">
+  <a href="#"><img src="https://i.imgur.com/j3Diw1D.png" width="280" /></a>
+</p>
+- Online room booking & payment  
+- Staff & product management  
+- Admin dashboard & analytics
 
-QR code check-ins
+---
 
-Reports & analytics
+### 2️⃣ ExploreHub — Rwanda Tourism
 
-Multi-role access
+<p align="center">
+  <a href="#"><img src="https://i.imgur.com/9VrGjRE.png" width="280" /></a>
+</p>
+- Discover & review destinations  
+- Google Maps integration  
+- User-driven reviews & media
 
-🛠 Stack: React, Node.js, MongoDB, Tailwind, JWT
+---
 
-2️⃣ ExploreHub — Rwanda Tourism Platform
+### 3️⃣ Event Management System (Giraffe Space)
 
-A digital platform to explore, review, and promote Rwandan destinations.
-Features Google Maps, user reviews, media uploads.
+<p align="center">
+  <a href="#"><img src="https://i.imgur.com/k9DzrHQ.png" width="280" /></a>
+</p>
+- QR-based registration & approvals  
+- Role-based access  
+- Financial & analytical dashboards
 
-🛠 Stack: MERN, Cloudinary, Tailwind
+</div>
 
-3️⃣ Advanced Hotel Management System
+---
 
-Full system for hotel booking, staff, products, and payments.
+# 🌐 **Connect With Me**
 
-🛠 Stack: Next.js, Express, MongoDB, Tailwind
+<p align="center">
+  <a href="mailto:boitengejerome@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" /></a>
+  <a href="https://linkedin.com/in/jerome-boitenge"><img src="https://skillicons.dev/icons?i=linkedin" width="48" /></a>
+  <a href="https://github.com/jeromeboitenge"><img src="https://skillicons.dev/icons?i=github" width="48" /></a>
+  <a href="https://jeromeboitenge.github.io/my-portifolio/"><img src="https://skillicons.dev/icons?i=webflow" width="48" /></a>
+</p>
 
-🎯 Career Goals
+---
 
-Build high-impact digital solutions in Africa
+# 💡 **Quote**
 
-Work on scalable, global products
+> “Technology is the bridge between ideas and impactful solutions.”
 
-Master cloud engineering and systems design
+---
 
-Mentor young developers
+# ⚡ **Final Touch**
 
-Grow as a full-stack architect
-
-📬 Let's Connect
-
-<p align="center"> <a href="mailto:jeromeboitenge@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" /></a> <a href="https://linkedin.com/in/jeromeboitenge"><img src="https://skillicons.dev/icons?i=linkedin" width="48" /></a> <a href="https://github.com/jeromeboitenge"><img src="https://skillicons.dev/icons?i=github" width="48" /></a> <a href="https://jeromeboitenge.github.io/my-portifolio/"><img src="https://skillicons.dev/icons?i=webflow" width="48" /></a> </p>
+<p align="center">
+  ⭐ Follow me & star my repositories if you like my work!
+</p>
