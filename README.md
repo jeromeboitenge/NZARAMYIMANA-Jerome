@@ -134,7 +134,16 @@ I build **scalable, secure, and visually stunning digital solutions** while also
 
 # 🎯 **Featured Projects**
 
-<summary>Click to Expand Projects</summary>
+### 3️⃣ Event Management System (Giraffe Space)
+
+<p align="center">
+  <a href="#"><img src="./images/hitamospace.png" width="280" alt="Event Management System screenshot" /></a>
+</p>
+- QR-based registration & approvals  
+- Role-based access  
+- Financial & analytical dashboards
+
+</div>
 
 <div align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:20px">
 
@@ -160,17 +169,6 @@ I build **scalable, secure, and visually stunning digital solutions** while also
 - User-driven reviews & media
 
 ---
-
-### 3️⃣ Event Management System (Giraffe Space)
-
-<p align="center">
-  <a href="#"><img src="https://i.imgur.com/k9DzrHQ.png" width="280" alt="Event Management System screenshot" /></a>
-</p>
-- QR-based registration & approvals  
-- Role-based access  
-- Financial & analytical dashboards
-
-</div>
 
 ---
 
