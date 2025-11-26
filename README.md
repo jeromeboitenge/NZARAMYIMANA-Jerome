@@ -58,41 +58,83 @@ I build **scalable, secure, and visually stunning digital solutions** while also
 
 # 🛠 **Skills**
 
+# 🛠 **Skills**
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,docker,typescript,tailwind,figma,linux,arduino" />
+  <img src="https://skillicons.dev/icons?i=react" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=docker" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=typescript" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=figma" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=linux" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=arduino" width="50" style="margin:10px;" />
 </p>
 
 ## 🔹 Frontend & UI/UX
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,reactnative,tailwind,bootstrap,materialui,figma,adobe,sass,jquery" />
+  <img src="https://skillicons.dev/icons?i=html" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=css" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=javascript" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=react" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=reactnative" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=materialui" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=figma" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=adobe" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=sass" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=jquery" width="50" style="margin:10px;" />
 </p>
 
 ## 🔹 Programming & Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,python,nodejs,express,nextjs,nestjs,c,cpp,java,graphql" />
+  <img src="https://skillicons.dev/icons?i=typescript" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=python" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=express" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=nestjs" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=c" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=cpp" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=java" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=graphql" width="50" style="margin:10px;" />
 </p>
 
 ## 🔹 Backend & Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,prisma" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=redis" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=prisma" width="50" style="margin:10px;" />
 </p>
 
 ## 🔹 Cloud, DevOps & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,vercel,netlify,github,linux,nginx,aws,heroku" />
+  <img src="https://skillicons.dev/icons?i=docker" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=vercel" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=netlify" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=github" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=linux" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=nginx" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=aws" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=heroku" width="50" style="margin:10px;" />
 </p>
 
 ## 🔹 Hardware & System Maintenance
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux,raspberrypi,arduino" />
+  <img src="https://skillicons.dev/icons?i=windows" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=linux" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=arduino" width="50" style="margin:10px;" />
 </p>
-
----
 
 # 💻 **Code Showcase**
 
