@@ -59,28 +59,28 @@ I build **scalable, secure, and visually stunning digital solutions** while also
 ## 🔹 Frontend & UI/UX Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html" width="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=css" width="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=javascript" width="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=react" width="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=tailwind" width="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=materialui" width="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=figma" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=html" width="60" style="margin:15px;" />
+  <img src="https://skillicons.dev/icons?i=css" width="60" style="margin:15px;" />
+  <img src="https://skillicons.dev/icons?i=javascript" width="60" style="margin:15px;" />
+  <img src="https://skillicons.dev/icons?i=react" width="60" style="margin:15px;" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="60" style="margin:15px;" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="60" style="margin:15px;" />
+  <img src="https://skillicons.dev/icons?i=materialui" width="60" style="margin:15px;" />
+  <img src="https://skillicons.dev/icons?i=figma" width="50" style="margin:15px;" />
 
 </p>
 
 ## 🔹 Backend Tech & Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript" width="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=nodejs" width="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=express" width="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=nextjs" width="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=nestjs" width="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=cpp" width="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=java" width="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=graphql" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=typescript" width="60" style="margin:15px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="60" style="margin:15px;" />
+  <img src="https://skillicons.dev/icons?i=express" width="60" style="margin:15px;" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="60" style="margin:15px;" />
+  <img src="https://skillicons.dev/icons?i=nestjs" width="60" style="margin:15px;" />
+  <img src="https://skillicons.dev/icons?i=cpp" width="60" style="margin:15px;" />
+  <img src="https://skillicons.dev/icons?i=java" width="60" style="margin:15px;" />
+  <img src="https://skillicons.dev/icons?i=graphql" width="60" style="margin:15px;" />
 </p>
 
 ## 🔹 Databases
@@ -88,8 +88,8 @@ I build **scalable, secure, and visually stunning digital solutions** while also
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb" width="60" style="margin:15px;" />
   <img src="https://skillicons.dev/icons?i=postgres" width="60" style="margin:15px;" />
-  <img src="https://skillicons.dev/icons?i=mysql" width="60" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=prisma" width="60" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="60" style="margin:15px;" />
+  <img src="https://skillicons.dev/icons?i=prisma" width="60" style="margin:15px;" />
 </p>
 
 ## 🔹 Cloud, DevOps & Tools
@@ -108,10 +108,10 @@ I build **scalable, secure, and visually stunning digital solutions** while also
 ## 🔹 Hardware & System Maintenance
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows" width="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=linux" width="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=raspberrypi" width="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=arduino" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=windows" width="60" style="margin:15px;" />
+  <img src="https://skillicons.dev/icons?i=linux" width="60" style="margin:15px;" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi" width="60" style="margin:15px;" />
+  <img src="https://skillicons.dev/icons?i=arduino" width="60" style="margin:15px;" />
 </p>
 
 # 📊 **Skill Levels (Animated Progress Bars)**
@@ -133,7 +133,7 @@ I build **scalable, secure, and visually stunning digital solutions** while also
 # 📊 **GitHub Analytics & Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeromeboitenge&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeromeboitenge&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeromeboitenge&theme=radical" width="48%" alt="GitHub Streak Stats" />
 </p>
 
