@@ -58,8 +58,6 @@ I build **scalable, secure, and visually stunning digital solutions** while also
 
 # 🛠 **Skills**
 
-# 🛠 **Skills**
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react" width="50" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=nextjs" width="50" style="margin:10px;" />
