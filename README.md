@@ -1,10 +1,5 @@
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/jeromeboitenge/jeromeboitenge/main/images/Nzaramyimana%20Jerome.jpeg?v=2"
-    alt="Jerome NZARAMYIMANA Profile Photo"
-    width="150"
-    style="border-radius:50%;border:4px solid #0A66C2;"
-  />
+  <img src="./images/Nzaramyimana Jerome.jpeg" width="150" alt="Profile Photo" />
 </p>
 
 </p>
