@@ -86,10 +86,10 @@ I build **scalable, secure, and visually stunning digital solutions** while also
 ## 🔹 Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb" width="60" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=postgres" width="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=mysql" width="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=prisma" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="60" style="margin:15px;" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="60" style="margin:15px;" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="60" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=prisma" width="60" style="margin:10px;" />
 </p>
 
 ## 🔹 Cloud, DevOps & Tools
