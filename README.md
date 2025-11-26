@@ -70,27 +70,25 @@ I build **scalable, secure, and visually stunning digital solutions** while also
 
 </p>
 
-## 🔹 Programming & Frameworks
+## 🔹 Backend Tech & Frameworks
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=typescript" width="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=python" width="50" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=nodejs" width="50" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=express" width="50" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=nextjs" width="50" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=nestjs" width="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=c" width="50" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=cpp" width="50" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=java" width="50" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=graphql" width="50" style="margin:10px;" />
 </p>
 
-## 🔹 Backend & Databases
+## 🔹 Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="60" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=postgres" width="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=redis" width="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="50" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=prisma" width="50" style="margin:10px;" />
 </p>
 
