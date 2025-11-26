@@ -108,8 +108,8 @@ I build **scalable, secure, and visually stunning digital solutions** while also
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" width="60" style="margin:15px;" />
   <img src="https://skillicons.dev/icons?i=linux" width="60" style="margin:15px;" />
-  <img src="https://skillicons.dev/icons?i=raspberrypi" width="60" style="margin:15px;" />
-  <img src="https://skillicons.dev/icons?i=arduino" width="60" style="margin:15px;" />
+    <img src="./images/mainboard.jpg" width="60" style="margin:15px;" />
+  
 </p>
 
 # 📊 **Skill Levels (Animated Progress Bars)**
