@@ -68,7 +68,7 @@ I build **scalable, secure, and visually stunning digital solutions** while also
   <img src="https://skillicons.dev/icons?i=tailwind" width="50" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=figma" width="50" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=linux" width="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=arduino" width="50" style="margin:10px;" />
+ 
 </p>
 
 ## 🔹 Frontend & UI/UX
