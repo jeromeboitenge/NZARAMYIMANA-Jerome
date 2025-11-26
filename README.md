@@ -1,10 +1,12 @@
-<p align="center" style="border-radius: 50%; border: 4px solid #0A66C2; display: inline-block; padding: 3px;">
+<p align="center">
   <img 
-    src="https://raw.githubusercontent.com/jeromeboitenge/jeromeboitenge/main/images/Nzaramyimana%20Jerome.jpeg" 
+    src="https://raw.githubusercontent.com/jeromeboitenge/jeromeboitenge/main/images/Nzaramyimana%20Jerome.jpeg"
     alt="Jerome NZARAMYIMANA Profile Photo"
     width="150"
-    style="border-radius: 50%;"
+    style="border-radius:50%;border:4px solid #0A66C2;"
   />
+</p>
+
 </p>
 
 <h1 align="center">
